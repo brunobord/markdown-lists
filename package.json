@@ -1,7 +1,7 @@
 {
   "name": "markdown-lists",
   "main": "./lib/markdown-lists",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Insert new list items in a Github-flavored Markdown document",
   "activationCommands": {
     "atom-text-editor": "markdown-lists:insert-new-line"
@@ -11,6 +11,5 @@
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
